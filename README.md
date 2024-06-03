@@ -1,5 +1,5 @@
 
-# Website Quản lý xét tốt nghiệp THPT 
+# Website Quản lý xét tốt nghiệp THPT - Web vẫn đang trong quá trình hoàn thiện các chức năng và cập nhật thêm dữ liệu
 
 
 
