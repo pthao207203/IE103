@@ -18,7 +18,7 @@ Link: https://quanlytotnghiep.000webhostapp.com
 - Username: Mã số Giáo viên
 - Password: Số điện thoại Giáo viên
 + Ví dụ:
-- Username: GV001
+- Username: GV000001
 - Password: 0900000001
 ### Student side:
 - Username: Mã số Học sinh
