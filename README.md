@@ -8,6 +8,13 @@
 
 リンク: https://quanlytotnghiep.000webhostapp.com
 
+## コードとデータベースの管理: 
+
+リンク: https://files.000webhost.com
+
+メール: trantphthao203@gmail.com
+
+パスワード: PThao@123
 
 ## 教育学部
 ユーザー名: D001
