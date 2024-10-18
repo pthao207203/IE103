@@ -2,7 +2,7 @@
 
 ## 🔗 Youtubeデモ
 
-リンク: 後日更新予定
+リンク: https://drive.google.com/file/d/1oNAIdhDAQJwC-IZsM3NcMWLwfHU7iurN/view?usp=sharing
 
 ## 🔗 ウェブサイト
 
